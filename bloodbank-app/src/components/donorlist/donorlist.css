@@ -1,0 +1,48 @@
+.donarlist_component{
+	display: flex;
+	padding-top:15px;
+	justify-content: center;
+}
+
+.donarlist_container {
+	height: 550px;
+	width: 100%;
+	text-align: center;
+	/*-webkit-box-shadow: 0px 2px 5px 1px rgba(153,150,153,1);
+-moz-box-shadow: 0px 2px 5px 1px rgba(153,150,153,1);
+box-shadow: 0px 2px 5px 1px rgba(153,150,153,1);*/
+}
+
+.donarlist_container h1 {
+    background-color: rgb(186,0,21);
+	color: white;
+	margin: 0px;
+	padding: 18px;
+    font-family: sans-serif;
+	font-size: 40px;
+}
+
+.donarlist {
+	display: flex;
+	justify-content: center;
+	padding: 15px;
+}
+
+.donarlist_preview {
+	width: 1000px;
+	/*height: 460px;*/
+	overflow-y: auto;
+}
+
+.selection_group {
+	font-weight: bold;
+	font-family: sans-serif;
+	color: black;
+	font-size: 25px;
+	padding: 15px;
+	margin: 4px;
+}
+
+tr:nth-child(even) {
+	background-color: rgb(234,234,234);
+	}

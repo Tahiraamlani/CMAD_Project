@@ -1,0 +1,35 @@
+.donardetail_component{
+	display: flex;
+	padding-top:15px;
+	justify-content: center;
+}
+
+.donardetail_container h1 {
+    background-color: rgb(186,0,21);
+	color: white;
+	margin: 0px;
+	padding: 18px;
+    font-family: sans-serif;
+}
+
+.donardetail_container{
+	text-align: center;
+	width: 520px;
+}
+
+.styling1 {
+    /*padding: 8px 20px 8px 2px;*/
+    text-align: left;
+    font-family: sans-serif;
+    color: black;
+    font-size: 18px;
+	font-weight: bold;
+}
+
+.styling2 {
+    /*padding: 8px 430px 8px 43px ;*/
+    text-align: left;
+    font-family: sans-serif;
+    color: black;
+    font-size: 18px;
+}

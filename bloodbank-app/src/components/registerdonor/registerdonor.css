@@ -1,0 +1,27 @@
+.registerdonor_component{
+	display: flex;
+	padding-top:15px;
+	justify-content: center;
+}
+
+.registerdonor_form_container {
+	height: 540px;
+	width: 400px;
+	text-align: center;
+	-webkit-box-shadow: 0px 2px 5px 1px rgba(153,150,153,1);
+-moz-box-shadow: 0px 2px 5px 1px rgba(153,150,153,1);
+box-shadow: 0px 2px 5px 1px rgba(153,150,153,1);
+}
+
+.registerdonor_form {
+	text-align: center;
+}
+
+.registerdonor_form_container h1 {
+    background-color: rgb(186,0,21);
+	color: white;
+	margin: 0px;
+	padding: 20px;
+    font-family: sans-serif;
+    font-size: 27px;
+}
